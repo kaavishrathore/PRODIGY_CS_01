@@ -17,10 +17,10 @@ It lets the user enter a message and a shift number to move the letters forward 
 4. The program prints the result
 
 ## Example
--Message: HELLO
--Shift: 3
--Mode: Encrypt
--Output: KHOOR
+- Message: HELLO
+- Shift: 3
+- Mode: Encrypt
+- Output: KHOOR
 
 ## Tech Used
 - Python (standard library)
