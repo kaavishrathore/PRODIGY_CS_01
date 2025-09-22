@@ -1,31 +1,31 @@
-# 🔹 PRODIGY_CS_01 - Caesar Cipher
+# PRODIGY_CS_01 – Caesar Cipher
 
-## 🔹 Project Overview
-This project implements the **Caesar Cipher** algorithm in Python.  
-It allows users to **encrypt** and **decrypt** messages by shifting characters by a chosen value.
+## Project Overview
+This is a small Python program that encrypts and decrypts text using the Caesar Cipher.  
+It lets the user enter a message and a shift number to move the letters forward or backward.
 
-## 🔹 Features
-- Encrypt messages with a custom shift value  
-- Decrypt messages back to original text  
-- Preserves spaces and punctuation  
-- Works for both uppercase and lowercase letters  
+## Features
+- Encrypt a message with any shift value
+- Decrypt the message back to the original text
+- Works with uppercase and lowercase letters
+- Keeps spaces and punctuation unchanged
 
-## 🔹 How It Works
-1. Enter a message  
-2. Enter a shift value (e.g., 3)  
-3. Choose whether to **Encrypt** or **Decrypt**  
-4. The program outputs the transformed message  
+## How It Works
+1. Type a message
+2. Enter a shift value (integer)
+3. Choose to encrypt or decrypt
+4. The program prints the result
 
-## 🔹 Example
+## Example
 Message: HELLO
 Shift: 3
 Mode: Encrypt
 Output: KHOOR
 
-## 🔹 Tech Used
-- Python (no external libraries required)
+## Tech Used
+- Python (standard library)
 
-## 🔹 Repository Info
-This repository is created as part of my **Cyber Security Internship at Prodigy InfoTech**.  
-**Track Code:** CS  
-**Task:** 01 - Caesar Cipher
+## Repository Info
+Created during my Cyber Security Internship at Prodigy InfoTech  
+Track Code: CS  
+Task: 01 – Caesar Cipher
